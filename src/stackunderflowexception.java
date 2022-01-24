@@ -1,5 +1,5 @@
 
-
+// This is a class I wrote for our stack class so we didn't take out less memory
 
 
 //Written by Thomas Kocar
