@@ -1,5 +1,5 @@
 
-
+// This is my stack class, to replicate the stack class already written by java
 
 //Written by Thomas Kocar
 import java.util.Arrays;
