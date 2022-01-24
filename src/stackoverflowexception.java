@@ -1,6 +1,4 @@
-
-
-
+//This is the stackoverflowexception class I wrote for my stack class so we don't use to much memory
 
 //Written by Thomas Kocar
 public class stackoverflowexception extends Throwable {
